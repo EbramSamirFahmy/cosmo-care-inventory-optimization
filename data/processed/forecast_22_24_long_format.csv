@@ -1,0 +1,457 @@
+Year,Month,Category,Forecast_Demand
+2025,1,Body Cream,5049
+2025,2,Body Cream,5089
+2025,3,Body Cream,5130
+2025,4,Body Cream,5171
+2025,5,Body Cream,5212
+2025,6,Body Cream,5253
+2025,7,Body Cream,5295
+2025,8,Body Cream,5338
+2025,9,Body Cream,5380
+2025,10,Body Cream,5423
+2025,11,Body Cream,5466
+2025,12,Body Cream,5510
+2025,1,Body Lotion,5416
+2025,2,Body Lotion,5459
+2025,3,Body Lotion,5503
+2025,4,Body Lotion,5546
+2025,5,Body Lotion,5591
+2025,6,Body Lotion,5635
+2025,7,Body Lotion,5680
+2025,8,Body Lotion,5725
+2025,9,Body Lotion,5771
+2025,10,Body Lotion,5817
+2025,11,Body Lotion,5864
+2025,12,Body Lotion,5910
+2025,1,Body Soap,5161
+2025,2,Body Soap,5202
+2025,3,Body Soap,5243
+2025,4,Body Soap,5285
+2025,5,Body Soap,5327
+2025,6,Body Soap,5370
+2025,7,Body Soap,5413
+2025,8,Body Soap,5456
+2025,9,Body Soap,5499
+2025,10,Body Soap,5543
+2025,11,Body Soap,5587
+2025,12,Body Soap,5632
+2025,1,Body Splash,5129
+2025,2,Body Splash,5169
+2025,3,Body Splash,5211
+2025,4,Body Splash,5252
+2025,5,Body Splash,5294
+2025,6,Body Splash,5336
+2025,7,Body Splash,5379
+2025,8,Body Splash,5422
+2025,9,Body Splash,5465
+2025,10,Body Splash,5509
+2025,11,Body Splash,5553
+2025,12,Body Splash,5597
+2025,1,Conditioner,5278
+2025,2,Conditioner,5320
+2025,3,Conditioner,5362
+2025,4,Conditioner,5405
+2025,5,Conditioner,5448
+2025,6,Conditioner,5492
+2025,7,Conditioner,5535
+2025,8,Conditioner,5579
+2025,9,Conditioner,5624
+2025,10,Conditioner,5669
+2025,11,Conditioner,5714
+2025,12,Conditioner,5760
+2025,1,Eye Cream,6149
+2025,2,Eye Cream,6198
+2025,3,Eye Cream,6247
+2025,4,Eye Cream,6297
+2025,5,Eye Cream,6347
+2025,6,Eye Cream,6398
+2025,7,Eye Cream,6449
+2025,8,Eye Cream,6500
+2025,9,Eye Cream,6552
+2025,10,Eye Cream,6604
+2025,11,Eye Cream,6657
+2025,12,Eye Cream,6710
+2025,1,Face Cream,5602
+2025,2,Face Cream,5647
+2025,3,Face Cream,5692
+2025,4,Face Cream,5737
+2025,5,Face Cream,5783
+2025,6,Face Cream,5829
+2025,7,Face Cream,5876
+2025,8,Face Cream,5923
+2025,9,Face Cream,5970
+2025,10,Face Cream,6017
+2025,11,Face Cream,6065
+2025,12,Face Cream,6114
+2025,1,Face Serum,5332
+2025,2,Face Serum,5375
+2025,3,Face Serum,5418
+2025,4,Face Serum,5461
+2025,5,Face Serum,5504
+2025,6,Face Serum,5548
+2025,7,Face Serum,5592
+2025,8,Face Serum,5637
+2025,9,Face Serum,5682
+2025,10,Face Serum,5727
+2025,11,Face Serum,5773
+2025,12,Face Serum,5819
+2025,1,Facial Cleanser,5427
+2025,2,Facial Cleanser,5470
+2025,3,Facial Cleanser,5514
+2025,4,Facial Cleanser,5558
+2025,5,Facial Cleanser,5602
+2025,6,Facial Cleanser,5647
+2025,7,Facial Cleanser,5692
+2025,8,Facial Cleanser,5737
+2025,9,Facial Cleanser,5783
+2025,10,Facial Cleanser,5829
+2025,11,Facial Cleanser,5876
+2025,12,Facial Cleanser,5922
+2025,1,Hair Mask,4870
+2025,2,Hair Mask,4908
+2025,3,Hair Mask,4947
+2025,4,Hair Mask,4987
+2025,5,Hair Mask,5027
+2025,6,Hair Mask,5067
+2025,7,Hair Mask,5107
+2025,8,Hair Mask,5148
+2025,9,Hair Mask,5189
+2025,10,Hair Mask,5230
+2025,11,Hair Mask,5272
+2025,12,Hair Mask,5314
+2025,1,Hair Serum,5677
+2025,2,Hair Serum,5722
+2025,3,Hair Serum,5768
+2025,4,Hair Serum,5814
+2025,5,Hair Serum,5860
+2025,6,Hair Serum,5907
+2025,7,Hair Serum,5954
+2025,8,Hair Serum,6001
+2025,9,Hair Serum,6049
+2025,10,Hair Serum,6098
+2025,11,Hair Serum,6146
+2025,12,Hair Serum,6195
+2025,1,Hair Treatment,5030
+2025,2,Hair Treatment,5070
+2025,3,Hair Treatment,5110
+2025,4,Hair Treatment,5151
+2025,5,Hair Treatment,5192
+2025,6,Hair Treatment,5234
+2025,7,Hair Treatment,5275
+2025,8,Hair Treatment,5317
+2025,9,Hair Treatment,5360
+2025,10,Hair Treatment,5402
+2025,11,Hair Treatment,5446
+2025,12,Hair Treatment,5489
+2025,1,Immunity Boost,1588
+2025,2,Immunity Boost,1600
+2025,3,Immunity Boost,1613
+2025,4,Immunity Boost,1626
+2025,5,Immunity Boost,1639
+2025,6,Immunity Boost,1652
+2025,7,Immunity Boost,1665
+2025,8,Immunity Boost,1678
+2025,9,Immunity Boost,1692
+2025,10,Immunity Boost,1705
+2025,11,Immunity Boost,1719
+2025,12,Immunity Boost,1733
+2025,1,Leave in,5281
+2025,2,Leave in,5323
+2025,3,Leave in,5365
+2025,4,Leave in,5408
+2025,5,Leave in,5451
+2025,6,Leave in,5495
+2025,7,Leave in,5539
+2025,8,Leave in,5583
+2025,9,Leave in,5627
+2025,10,Leave in,5672
+2025,11,Leave in,5717
+2025,12,Leave in,5763
+2025,1,Makeup Remover,5567
+2025,2,Makeup Remover,5611
+2025,3,Makeup Remover,5656
+2025,4,Makeup Remover,5701
+2025,5,Makeup Remover,5747
+2025,6,Makeup Remover,5793
+2025,7,Makeup Remover,5839
+2025,8,Makeup Remover,5885
+2025,9,Makeup Remover,5932
+2025,10,Makeup Remover,5980
+2025,11,Makeup Remover,6027
+2025,12,Makeup Remover,6075
+2025,1,Oil,5538
+2025,2,Oil,5582
+2025,3,Oil,5626
+2025,4,Oil,5671
+2025,5,Oil,5717
+2025,6,Oil,5762
+2025,7,Oil,5808
+2025,8,Oil,5854
+2025,9,Oil,5901
+2025,10,Oil,5948
+2025,11,Oil,5996
+2025,12,Oil,6043
+2025,1,Roll-on,5615
+2025,2,Roll-on,5660
+2025,3,Roll-on,5705
+2025,4,Roll-on,5751
+2025,5,Roll-on,5797
+2025,6,Roll-on,5843
+2025,7,Roll-on,5890
+2025,8,Roll-on,5936
+2025,9,Roll-on,5984
+2025,10,Roll-on,6032
+2025,11,Roll-on,6080
+2025,12,Roll-on,6128
+2025,1,Shampoo,5328
+2025,2,Shampoo,5371
+2025,3,Shampoo,5413
+2025,4,Shampoo,5457
+2025,5,Shampoo,5500
+2025,6,Shampoo,5544
+2025,7,Shampoo,5588
+2025,8,Shampoo,5633
+2025,9,Shampoo,5678
+2025,10,Shampoo,5723
+2025,11,Shampoo,5769
+2025,12,Shampoo,5815
+2025,1,Shower Gel,5129
+2025,2,Shower Gel,5169
+2025,3,Shower Gel,5211
+2025,4,Shower Gel,5252
+2025,5,Shower Gel,5294
+2025,6,Shower Gel,5336
+2025,7,Shower Gel,5379
+2025,8,Shower Gel,5422
+2025,9,Shower Gel,5465
+2025,10,Shower Gel,5509
+2025,11,Shower Gel,5553
+2025,12,Shower Gel,5597
+2026,1,Body Cream,5554
+2026,2,Body Cream,5598
+2026,3,Body Cream,5643
+2026,4,Body Cream,5688
+2026,5,Body Cream,5733
+2026,6,Body Cream,5779
+2026,7,Body Cream,5825
+2026,8,Body Cream,5871
+2026,9,Body Cream,5918
+2026,10,Body Cream,5965
+2026,11,Body Cream,6013
+2026,12,Body Cream,6061
+2026,1,Body Lotion,5957
+2026,2,Body Lotion,6005
+2026,3,Body Lotion,6053
+2026,4,Body Lotion,6101
+2026,5,Body Lotion,6150
+2026,6,Body Lotion,6199
+2026,7,Body Lotion,6248
+2026,8,Body Lotion,6298
+2026,9,Body Lotion,6348
+2026,10,Body Lotion,6399
+2026,11,Body Lotion,6450
+2026,12,Body Lotion,6501
+2026,1,Body Soap,5677
+2026,2,Body Soap,5722
+2026,3,Body Soap,5768
+2026,4,Body Soap,5814
+2026,5,Body Soap,5860
+2026,6,Body Soap,5907
+2026,7,Body Soap,5954
+2026,8,Body Soap,6001
+2026,9,Body Soap,6049
+2026,10,Body Soap,6098
+2026,11,Body Soap,6146
+2026,12,Body Soap,6195
+2026,1,Body Splash,5641
+2026,2,Body Splash,5686
+2026,3,Body Splash,5732
+2026,4,Body Splash,5777
+2026,5,Body Splash,5824
+2026,6,Body Splash,5870
+2026,7,Body Splash,5917
+2026,8,Body Splash,5964
+2026,9,Body Splash,6012
+2026,10,Body Splash,6059
+2026,11,Body Splash,6108
+2026,12,Body Splash,6156
+2026,1,Conditioner,5806
+2026,2,Conditioner,5852
+2026,3,Conditioner,5898
+2026,4,Conditioner,5946
+2026,5,Conditioner,5993
+2026,6,Conditioner,6041
+2026,7,Conditioner,6089
+2026,8,Conditioner,6137
+2026,9,Conditioner,6186
+2026,10,Conditioner,6236
+2026,11,Conditioner,6285
+2026,12,Conditioner,6336
+2026,1,Eye Cream,6764
+2026,2,Eye Cream,6817
+2026,3,Eye Cream,6872
+2026,4,Eye Cream,6927
+2026,5,Eye Cream,6982
+2026,6,Eye Cream,7038
+2026,7,Eye Cream,7094
+2026,8,Eye Cream,7150
+2026,9,Eye Cream,7207
+2026,10,Eye Cream,7265
+2026,11,Eye Cream,7323
+2026,12,Eye Cream,7381
+2026,1,Face Cream,6163
+2026,2,Face Cream,6212
+2026,3,Face Cream,6261
+2026,4,Face Cream,6311
+2026,5,Face Cream,6361
+2026,6,Face Cream,6412
+2026,7,Face Cream,6463
+2026,8,Face Cream,6515
+2026,9,Face Cream,6567
+2026,10,Face Cream,6619
+2026,11,Face Cream,6672
+2026,12,Face Cream,6725
+2026,1,Face Serum,5865
+2026,2,Face Serum,5912
+2026,3,Face Serum,5959
+2026,4,Face Serum,6007
+2026,5,Face Serum,6055
+2026,6,Face Serum,6103
+2026,7,Face Serum,6152
+2026,8,Face Serum,6201
+2026,9,Face Serum,6250
+2026,10,Face Serum,6300
+2026,11,Face Serum,6350
+2026,12,Face Serum,6401
+2026,1,Facial Cleanser,5970
+2026,2,Facial Cleanser,6017
+2026,3,Facial Cleanser,6065
+2026,4,Facial Cleanser,6114
+2026,5,Facial Cleanser,6162
+2026,6,Facial Cleanser,6211
+2026,7,Facial Cleanser,6261
+2026,8,Facial Cleanser,6311
+2026,9,Facial Cleanser,6361
+2026,10,Facial Cleanser,6412
+2026,11,Facial Cleanser,6463
+2026,12,Facial Cleanser,6515
+2026,1,Hair Mask,5356
+2026,2,Hair Mask,5399
+2026,3,Hair Mask,5442
+2026,4,Hair Mask,5486
+2026,5,Hair Mask,5529
+2026,6,Hair Mask,5573
+2026,7,Hair Mask,5618
+2026,8,Hair Mask,5663
+2026,9,Hair Mask,5708
+2026,10,Hair Mask,5753
+2026,11,Hair Mask,5799
+2026,12,Hair Mask,5846
+2026,1,Hair Serum,6245
+2026,2,Hair Serum,6294
+2026,3,Hair Serum,6345
+2026,4,Hair Serum,6395
+2026,5,Hair Serum,6446
+2026,6,Hair Serum,6498
+2026,7,Hair Serum,6549
+2026,8,Hair Serum,6602
+2026,9,Hair Serum,6654
+2026,10,Hair Serum,6707
+2026,11,Hair Serum,6761
+2026,12,Hair Serum,6815
+2026,1,Hair Treatment,5533
+2026,2,Hair Treatment,5577
+2026,3,Hair Treatment,5621
+2026,4,Hair Treatment,5666
+2026,5,Hair Treatment,5711
+2026,6,Hair Treatment,5757
+2026,7,Hair Treatment,5803
+2026,8,Hair Treatment,5849
+2026,9,Hair Treatment,5896
+2026,10,Hair Treatment,5943
+2026,11,Hair Treatment,5990
+2026,12,Hair Treatment,6038
+2026,1,Immunity Boost,1746
+2026,2,Immunity Boost,1760
+2026,3,Immunity Boost,1774
+2026,4,Immunity Boost,1788
+2026,5,Immunity Boost,1803
+2026,6,Immunity Boost,1817
+2026,7,Immunity Boost,1832
+2026,8,Immunity Boost,1846
+2026,9,Immunity Boost,1861
+2026,10,Immunity Boost,1876
+2026,11,Immunity Boost,1891
+2026,12,Immunity Boost,1906
+2026,1,Leave in,5809
+2026,2,Leave in,5855
+2026,3,Leave in,5902
+2026,4,Leave in,5949
+2026,5,Leave in,5996
+2026,6,Leave in,6044
+2026,7,Leave in,6092
+2026,8,Leave in,6141
+2026,9,Leave in,6190
+2026,10,Leave in,6239
+2026,11,Leave in,6289
+2026,12,Leave in,6339
+2026,1,Makeup Remover,6124
+2026,2,Makeup Remover,6173
+2026,3,Makeup Remover,6222
+2026,4,Makeup Remover,6271
+2026,5,Makeup Remover,6321
+2026,6,Makeup Remover,6372
+2026,7,Makeup Remover,6423
+2026,8,Makeup Remover,6474
+2026,9,Makeup Remover,6525
+2026,10,Makeup Remover,6578
+2026,11,Makeup Remover,6630
+2026,12,Makeup Remover,6683
+2026,1,Oil,6092
+2026,2,Oil,6140
+2026,3,Oil,6189
+2026,4,Oil,6238
+2026,5,Oil,6288
+2026,6,Oil,6338
+2026,7,Oil,6389
+2026,8,Oil,6440
+2026,9,Oil,6491
+2026,10,Oil,6543
+2026,11,Oil,6595
+2026,12,Oil,6648
+2026,1,Roll-on,6177
+2026,2,Roll-on,6226
+2026,3,Roll-on,6276
+2026,4,Roll-on,6326
+2026,5,Roll-on,6376
+2026,6,Roll-on,6427
+2026,7,Roll-on,6478
+2026,8,Roll-on,6530
+2026,9,Roll-on,6582
+2026,10,Roll-on,6635
+2026,11,Roll-on,6688
+2026,12,Roll-on,6741
+2026,1,Shampoo,5861
+2026,2,Shampoo,5908
+2026,3,Shampoo,5955
+2026,4,Shampoo,6002
+2026,5,Shampoo,6050
+2026,6,Shampoo,6098
+2026,7,Shampoo,6147
+2026,8,Shampoo,6196
+2026,9,Shampoo,6245
+2026,10,Shampoo,6295
+2026,11,Shampoo,6345
+2026,12,Shampoo,6396
+2026,1,Shower Gel,5641
+2026,2,Shower Gel,5686
+2026,3,Shower Gel,5732
+2026,4,Shower Gel,5777
+2026,5,Shower Gel,5824
+2026,6,Shower Gel,5870
+2026,7,Shower Gel,5917
+2026,8,Shower Gel,5964
+2026,9,Shower Gel,6012
+2026,10,Shower Gel,6059
+2026,11,Shower Gel,6108
+2026,12,Shower Gel,6156
