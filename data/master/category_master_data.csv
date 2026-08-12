@@ -1,0 +1,20 @@
+Category,Cost_Price,Selling_Price,Lead_Time,Ordering_Cost,Holding_Cost_Percent,Initial_Stock,Profit_Margin
+Body Cream,210,275,14,500,0.02,7800,0.35
+Body Lotion,200,260,14,500,0.02,7600,0.35
+Body Soap,160,220,14,500,0.02,8200,0.35
+Body Splash,180,250,14,500,0.02,7400,0.35
+Conditioner,200,250,14,500,0.02,8340,0.35
+Eye Cream,240,330,14,500,0.02,6000,0.35
+Face Cream,230,320,14,500,0.02,6500,0.35
+Face Serum,300,450,14,500,0.02,6200,0.35
+Facial Cleanser,190,260,14,500,0.02,7000,0.35
+Hair Mask,210,275,14,500,0.02,8000,0.35
+Hair Serum,280,385,14,500,0.02,9750,0.35
+Hair Treatment,260,360,14,500,0.02,7200,0.35
+Immunity Boost,320,480,14,500,0.02,5500,0.35
+Leave in,220,300,14,500,0.02,7600,0.35
+Makeup Remover,200,270,14,500,0.02,6800,0.35
+Oil,240,340,14,500,0.02,7100,0.35
+Roll-on,150,210,14,500,0.02,8000,0.35
+Shampoo,200,250,14,500,0.02,9120,0.35
+Shower Gel,190,260,14,500,0.02,8500,0.35
