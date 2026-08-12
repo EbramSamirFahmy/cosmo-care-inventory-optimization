@@ -1,0 +1,685 @@
+Category,Date,Sales
+Hair Serum,1/1/2022,433
+Shampoo,1/1/2022,290
+Conditioner,1/1/2022,292
+Hair Mask,1/1/2022,197
+Leave in,1/1/2022,189
+Hair Treatment,1/1/2022,194
+Oil,1/1/2022,262
+Shower Gel,1/1/2022,278
+Body Lotion,1/1/2022,193
+Body Splash,1/1/2022,206
+Roll-on,1/1/2022,283
+Body Cream,1/1/2022,187
+Body Soap,1/1/2022,185
+Face Serum,1/1/2022,211
+Face Cream,1/1/2022,210
+Facial Cleanser,1/1/2022,433
+Makeup Remover,1/1/2022,165
+Eye Cream,1/1/2022,156
+Immunity Boost,1/1/2022,300
+Hair Serum,2/1/2022,498
+Shampoo,2/1/2022,345
+Conditioner,2/1/2022,336
+Hair Mask,2/1/2022,246
+Leave in,2/1/2022,240
+Hair Treatment,2/1/2022,250
+Oil,2/1/2022,339
+Shower Gel,2/1/2022,314
+Body Lotion,2/1/2022,259
+Body Splash,2/1/2022,244
+Roll-on,2/1/2022,385
+Body Cream,2/1/2022,263
+Body Soap,2/1/2022,265
+Face Serum,2/1/2022,244
+Face Cream,2/1/2022,251
+Facial Cleanser,2/1/2022,463
+Makeup Remover,2/1/2022,265
+Eye Cream,2/1/2022,278
+Immunity Boost,2/1/2022,320
+Hair Serum,3/1/2022,566
+Shampoo,3/1/2022,466
+Conditioner,3/1/2022,391
+Hair Mask,3/1/2022,320
+Leave in,3/1/2022,289
+Hair Treatment,3/1/2022,325
+Oil,3/1/2022,467
+Shower Gel,3/1/2022,357
+Body Lotion,3/1/2022,285
+Body Splash,3/1/2022,299
+Roll-on,3/1/2022,465
+Body Cream,3/1/2022,288
+Body Soap,3/1/2022,281
+Face Serum,3/1/2022,336
+Face Cream,3/1/2022,328
+Facial Cleanser,3/1/2022,552
+Makeup Remover,3/1/2022,290
+Eye Cream,3/1/2022,293
+Immunity Boost,3/1/2022,340
+Hair Serum,4/1/2022,598
+Shampoo,4/1/2022,503
+Conditioner,4/1/2022,465
+Hair Mask,4/1/2022,399
+Leave in,4/1/2022,389
+Hair Treatment,4/1/2022,383
+Oil,4/1/2022,486
+Shower Gel,4/1/2022,433
+Body Lotion,4/1/2022,394
+Body Splash,4/1/2022,396
+Roll-on,4/1/2022,488
+Body Cream,4/1/2022,405
+Body Soap,4/1/2022,382
+Face Serum,4/1/2022,406
+Face Cream,4/1/2022,431
+Facial Cleanser,4/1/2022,560
+Makeup Remover,4/1/2022,376
+Eye Cream,4/1/2022,387
+Immunity Boost,4/1/2022,360
+Hair Serum,5/1/2022,676
+Shampoo,5/1/2022,588
+Conditioner,5/1/2022,512
+Hair Mask,5/1/2022,451
+Leave in,5/1/2022,413
+Hair Treatment,5/1/2022,405
+Oil,5/1/2022,547
+Shower Gel,5/1/2022,510
+Body Lotion,5/1/2022,412
+Body Splash,5/1/2022,426
+Roll-on,5/1/2022,606
+Body Cream,5/1/2022,384
+Body Soap,5/1/2022,381
+Face Serum,5/1/2022,440
+Face Cream,5/1/2022,465
+Facial Cleanser,5/1/2022,664
+Makeup Remover,5/1/2022,369
+Eye Cream,5/1/2022,379
+Immunity Boost,5/1/2022,380
+Hair Serum,6/1/2022,756
+Shampoo,6/1/2022,656
+Conditioner,6/1/2022,640
+Hair Mask,6/1/2022,612
+Leave in,6/1/2022,582
+Hair Treatment,6/1/2022,589
+Oil,6/1/2022,631
+Shower Gel,6/1/2022,618
+Body Lotion,6/1/2022,588
+Body Splash,6/1/2022,598
+Roll-on,6/1/2022,679
+Body Cream,6/1/2022,580
+Body Soap,6/1/2022,549
+Face Serum,6/1/2022,610
+Face Cream,6/1/2022,618
+Facial Cleanser,6/1/2022,728
+Makeup Remover,6/1/2022,519
+Eye Cream,6/1/2022,530
+Immunity Boost,6/1/2022,400
+Hair Serum,7/1/2022,855
+Shampoo,7/1/2022,764
+Conditioner,7/1/2022,733
+Hair Mask,7/1/2022,687
+Leave in,7/1/2022,658
+Hair Treatment,7/1/2022,663
+Oil,7/1/2022,732
+Shower Gel,7/1/2022,699
+Body Lotion,7/1/2022,680
+Body Splash,7/1/2022,692
+Roll-on,7/1/2022,770
+Body Cream,7/1/2022,655
+Body Soap,7/1/2022,626
+Face Serum,7/1/2022,719
+Face Cream,7/1/2022,712
+Facial Cleanser,7/1/2022,810
+Makeup Remover,7/1/2022,609
+Eye Cream,7/1/2022,615
+Immunity Boost,7/1/2022,420
+Hair Serum,8/1/2022,897
+Shampoo,8/1/2022,823
+Conditioner,8/1/2022,801
+Hair Mask,8/1/2022,754
+Leave in,8/1/2022,709
+Hair Treatment,8/1/2022,709
+Oil,8/1/2022,819
+Shower Gel,8/1/2022,796
+Body Lotion,8/1/2022,717
+Body Splash,8/1/2022,732
+Roll-on,8/1/2022,830
+Body Cream,8/1/2022,688
+Body Soap,8/1/2022,645
+Face Serum,8/1/2022,776
+Face Cream,8/1/2022,767
+Facial Cleanser,8/1/2022,856
+Makeup Remover,8/1/2022,640
+Eye Cream,8/1/2022,645
+Immunity Boost,8/1/2022,440
+Hair Serum,9/1/2022,956
+Shampoo,9/1/2022,901
+Conditioner,9/1/2022,897
+Hair Mask,9/1/2022,786
+Leave in,9/1/2022,765
+Hair Treatment,9/1/2022,734
+Oil,9/1/2022,873
+Shower Gel,9/1/2022,876
+Body Lotion,9/1/2022,801
+Body Splash,9/1/2022,769
+Roll-on,9/1/2022,920
+Body Cream,9/1/2022,754
+Body Soap,9/1/2022,725
+Face Serum,9/1/2022,806
+Face Cream,9/1/2022,807
+Facial Cleanser,9/1/2022,931
+Makeup Remover,9/1/2022,701
+Eye Cream,9/1/2022,722
+Immunity Boost,9/1/2022,460
+Hair Serum,10/1/2022,1032
+Shampoo,10/1/2022,1020
+Conditioner,10/1/2022,988
+Hair Mask,10/1/2022,832
+Leave in,10/1/2022,788
+Hair Treatment,10/1/2022,811
+Oil,10/1/2022,990
+Shower Gel,10/1/2022,964
+Body Lotion,10/1/2022,784
+Body Splash,10/1/2022,803
+Roll-on,10/1/2022,1025
+Body Cream,10/1/2022,756
+Body Soap,10/1/2022,720
+Face Serum,10/1/2022,808
+Face Cream,10/1/2022,835
+Facial Cleanser,10/1/2022,990
+Makeup Remover,10/1/2022,711
+Eye Cream,10/1/2022,735
+Immunity Boost,10/1/2022,480
+Hair Serum,11/1/2022,1298
+Shampoo,11/1/2022,1130
+Conditioner,11/1/2022,1013
+Hair Mask,11/1/2022,914
+Leave in,11/1/2022,881
+Hair Treatment,11/1/2022,887
+Oil,11/1/2022,1096
+Shower Gel,11/1/2022,992
+Body Lotion,11/1/2022,902
+Body Splash,11/1/2022,878
+Roll-on,11/1/2022,1167
+Body Cream,11/1/2022,893
+Body Soap,11/1/2022,852
+Face Serum,11/1/2022,882
+Face Cream,11/1/2022,867
+Facial Cleanser,11/1/2022,1254
+Makeup Remover,11/1/2022,833
+Eye Cream,11/1/2022,855
+Immunity Boost,11/1/2022,500
+Hair Serum,12/1/2022,1420
+Shampoo,12/1/2022,1346
+Conditioner,12/1/2022,1270
+Hair Mask,12/1/2022,956
+Leave in,12/1/2022,940
+Hair Treatment,12/1/2022,938
+Oil,12/1/2022,1295
+Shower Gel,12/1/2022,1239
+Body Lotion,12/1/2022,952
+Body Splash,12/1/2022,949
+Roll-on,12/1/2022,1390
+Body Cream,12/1/2022,932
+Body Soap,12/1/2022,897
+Face Serum,12/1/2022,964
+Face Cream,12/1/2022,949
+Facial Cleanser,12/1/2022,1373
+Makeup Remover,12/1/2022,858
+Eye Cream,12/1/2022,891
+Immunity Boost,12/1/2022,550
+Hair Serum,1/1/2023,840
+Shampoo,1/1/2023,701
+Conditioner,1/1/2023,631
+Hair Mask,1/1/2023,540
+Leave in,1/1/2023,708
+Hair Treatment,1/1/2023,729
+Oil,1/1/2023,689
+Shower Gel,1/1/2023,628
+Body Lotion,1/1/2023,621
+Body Splash,1/1/2023,638
+Roll-on,1/1/2023,702
+Body Cream,1/1/2023,703
+Body Soap,1/1/2023,642
+Face Serum,1/1/2023,639
+Face Cream,1/1/2023,628
+Facial Cleanser,1/1/2023,649
+Makeup Remover,1/1/2023,637
+Eye Cream,1/1/2023,720
+Immunity Boost,1/1/2023,580
+Hair Serum,2/1/2023,899
+Shampoo,2/1/2023,754
+Conditioner,2/1/2023,741
+Hair Mask,2/1/2023,645
+Leave in,2/1/2023,779
+Hair Treatment,2/1/2023,764
+Oil,2/1/2023,829
+Shower Gel,2/1/2023,763
+Body Lotion,2/1/2023,764
+Body Splash,2/1/2023,738
+Roll-on,2/1/2023,742
+Body Cream,2/1/2023,763
+Body Soap,2/1/2023,723
+Face Serum,2/1/2023,820
+Face Cream,2/1/2023,799
+Facial Cleanser,2/1/2023,710
+Makeup Remover,2/1/2023,821
+Eye Cream,2/1/2023,720
+Immunity Boost,2/1/2023,600
+Hair Serum,3/1/2023,956
+Shampoo,3/1/2023,832
+Conditioner,3/1/2023,786
+Hair Mask,3/1/2023,699
+Leave in,3/1/2023,900
+Hair Treatment,3/1/2023,772
+Oil,3/1/2023,751
+Shower Gel,3/1/2023,847
+Body Lotion,3/1/2023,857
+Body Splash,3/1/2023,801
+Roll-on,3/1/2023,821
+Body Cream,3/1/2023,838
+Body Soap,3/1/2023,802
+Face Serum,3/1/2023,788
+Face Cream,3/1/2023,869
+Facial Cleanser,3/1/2023,837
+Makeup Remover,3/1/2023,915
+Eye Cream,3/1/2023,887
+Immunity Boost,3/1/2023,620
+Hair Serum,4/1/2023,1320
+Shampoo,4/1/2023,891
+Conditioner,4/1/2023,796
+Hair Mask,4/1/2023,765
+Leave in,4/1/2023,810
+Hair Treatment,4/1/2023,912
+Oil,4/1/2023,777
+Shower Gel,4/1/2023,775
+Body Lotion,4/1/2023,990
+Body Splash,4/1/2023,938
+Roll-on,4/1/2023,961
+Body Cream,4/1/2023,926
+Body Soap,4/1/2023,895
+Face Serum,4/1/2023,796
+Face Cream,4/1/2023,729
+Facial Cleanser,4/1/2023,922
+Makeup Remover,4/1/2023,980
+Eye Cream,4/1/2023,877
+Immunity Boost,4/1/2023,650
+Hair Serum,5/1/2023,1487
+Shampoo,5/1/2023,1054
+Conditioner,5/1/2023,869
+Hair Mask,5/1/2023,797
+Leave in,5/1/2023,1081
+Hair Treatment,5/1/2023,1017
+Oil,5/1/2023,884
+Shower Gel,5/1/2023,818
+Body Lotion,5/1/2023,1057
+Body Splash,5/1/2023,996
+Roll-on,5/1/2023,948
+Body Cream,5/1/2023,980
+Body Soap,5/1/2023,951
+Face Serum,5/1/2023,894
+Face Cream,5/1/2023,1186
+Facial Cleanser,5/1/2023,880
+Makeup Remover,5/1/2023,1018
+Eye Cream,5/1/2023,1077
+Immunity Boost,5/1/2023,700
+Hair Serum,6/1/2023,1621
+Shampoo,6/1/2023,2000
+Conditioner,6/1/2023,1080
+Hair Mask,6/1/2023,945
+Leave in,6/1/2023,1844
+Hair Treatment,6/1/2023,1956
+Oil,6/1/2023,1141
+Shower Gel,6/1/2023,1036
+Body Lotion,6/1/2023,1941
+Body Splash,6/1/2023,1886
+Roll-on,6/1/2023,1943
+Body Cream,6/1/2023,1781
+Body Soap,6/1/2023,1866
+Face Serum,6/1/2023,1107
+Face Cream,6/1/2023,1826
+Facial Cleanser,6/1/2023,1861
+Makeup Remover,6/1/2023,1908
+Eye Cream,6/1/2023,1839
+Immunity Boost,6/1/2023,750
+Hair Serum,7/1/2023,1687
+Shampoo,7/1/2023,2145
+Conditioner,7/1/2023,1725
+Hair Mask,7/1/2023,1500
+Leave in,7/1/2023,2210
+Hair Treatment,7/1/2023,2091
+Oil,7/1/2023,1769
+Shower Gel,7/1/2023,1714
+Body Lotion,7/1/2023,2129
+Body Splash,7/1/2023,2068
+Roll-on,7/1/2023,2032
+Body Cream,7/1/2023,1972
+Body Soap,7/1/2023,1964
+Face Serum,7/1/2023,1777
+Face Cream,7/1/2023,2287
+Facial Cleanser,7/1/2023,1964
+Makeup Remover,7/1/2023,2107
+Eye Cream,7/1/2023,2276
+Immunity Boost,7/1/2023,800
+Hair Serum,8/1/2023,2021
+Shampoo,8/1/2023,2360
+Conditioner,8/1/2023,1999
+Hair Mask,8/1/2023,1690
+Leave in,8/1/2023,2244
+Hair Treatment,8/1/2023,2274
+Oil,8/1/2023,2107
+Shower Gel,8/1/2023,1928
+Body Lotion,8/1/2023,2351
+Body Splash,8/1/2023,2265
+Roll-on,8/1/2023,2219
+Body Cream,8/1/2023,2239
+Body Soap,8/1/2023,2255
+Face Serum,8/1/2023,2042
+Face Cream,8/1/2023,2180
+Facial Cleanser,8/1/2023,2161
+Makeup Remover,8/1/2023,2243
+Eye Cream,8/1/2023,2237
+Immunity Boost,8/1/2023,850
+Hair Serum,9/1/2023,2540
+Shampoo,9/1/2023,2498
+Conditioner,9/1/2023,2120
+Hair Mask,9/1/2023,1913
+Leave in,9/1/2023,2392
+Hair Treatment,9/1/2023,2428
+Oil,9/1/2023,2188
+Shower Gel,9/1/2023,2022
+Body Lotion,9/1/2023,2501
+Body Splash,9/1/2023,2420
+Roll-on,9/1/2023,2418
+Body Cream,9/1/2023,2305
+Body Soap,9/1/2023,2444
+Face Serum,9/1/2023,2111
+Face Cream,9/1/2023,2403
+Facial Cleanser,9/1/2023,2390
+Makeup Remover,9/1/2023,2512
+Eye Cream,9/1/2023,2463
+Immunity Boost,9/1/2023,950
+Hair Serum,10/1/2023,2613
+Shampoo,10/1/2023,2531
+Conditioner,10/1/2023,2365
+Hair Mask,10/1/2023,1958
+Leave in,10/1/2023,2534
+Hair Treatment,10/1/2023,2355
+Oil,10/1/2023,2401
+Shower Gel,10/1/2023,2206
+Body Lotion,10/1/2023,2499
+Body Splash,10/1/2023,2447
+Roll-on,10/1/2023,2414
+Body Cream,10/1/2023,2343
+Body Soap,10/1/2023,2465
+Face Serum,10/1/2023,2342
+Face Cream,10/1/2023,2448
+Facial Cleanser,10/1/2023,2271
+Makeup Remover,10/1/2023,2432
+Eye Cream,10/1/2023,2652
+Immunity Boost,10/1/2023,1050
+Hair Serum,11/1/2023,3145
+Shampoo,11/1/2023,2845
+Conditioner,11/1/2023,2650
+Hair Mask,11/1/2023,2300
+Leave in,11/1/2023,2843
+Hair Treatment,11/1/2023,2701
+Oil,11/1/2023,2729
+Shower Gel,11/1/2023,2547
+Body Lotion,11/1/2023,2883
+Body Splash,11/1/2023,2791
+Roll-on,11/1/2023,2800
+Body Cream,11/1/2023,2690
+Body Soap,11/1/2023,2759
+Face Serum,11/1/2023,2657
+Face Cream,11/1/2023,2794
+Facial Cleanser,11/1/2023,2639
+Makeup Remover,11/1/2023,2926
+Eye Cream,11/1/2023,2949
+Immunity Boost,11/1/2023,1200
+Hair Serum,12/1/2023,4000
+Shampoo,12/1/2023,3652
+Conditioner,12/1/2023,3150
+Hair Mask,12/1/2023,2756
+Leave in,12/1/2023,3661
+Hair Treatment,12/1/2023,3536
+Oil,12/1/2023,3297
+Shower Gel,12/1/2023,2961
+Body Lotion,12/1/2023,3627
+Body Splash,12/1/2023,3595
+Roll-on,12/1/2023,3604
+Body Cream,12/1/2023,3441
+Body Soap,12/1/2023,3620
+Face Serum,12/1/2023,3095
+Face Cream,12/1/2023,3577
+Facial Cleanser,12/1/2023,3450
+Makeup Remover,12/1/2023,3758
+Eye Cream,12/1/2023,3792
+Immunity Boost,12/1/2023,1400
+Hair Serum,1/1/2024,2998
+Shampoo,1/1/2024,1870
+Conditioner,1/1/2024,1800
+Hair Mask,1/1/2024,1642
+Leave in,1/1/2024,1688
+Hair Treatment,1/1/2024,1738
+Oil,1/1/2024,2801
+Shower Gel,1/1/2024,1837
+Body Lotion,1/1/2024,1679
+Body Splash,1/1/2024,1777
+Roll-on,1/1/2024,1875
+Body Cream,1/1/2024,1823
+Body Soap,1/1/2024,1712
+Face Serum,1/1/2024,1665
+Face Cream,1/1/2024,2692
+Facial Cleanser,1/1/2024,1871
+Makeup Remover,1/1/2024,1983
+Eye Cream,1/1/2024,4000
+Immunity Boost,1/1/2024,900
+Hair Serum,2/1/2024,3130
+Shampoo,2/1/2024,2300
+Conditioner,2/1/2024,2320
+Hair Mask,2/1/2024,2200
+Leave in,2/1/2024,2196
+Hair Treatment,2/1/2024,2036
+Oil,2/1/2024,2968
+Shower Gel,2/1/2024,2245
+Body Lotion,2/1/2024,2189
+Body Splash,2/1/2024,2241
+Roll-on,2/1/2024,2084
+Body Cream,2/1/2024,2265
+Body Soap,2/1/2024,2331
+Face Serum,2/1/2024,2241
+Face Cream,2/1/2024,3066
+Facial Cleanser,2/1/2024,2208
+Makeup Remover,2/1/2024,2210
+Eye Cream,2/1/2024,4200
+Immunity Boost,2/1/2024,950
+Hair Serum,3/1/2024,3500
+Shampoo,3/1/2024,2970
+Conditioner,3/1/2024,2870
+Hair Mask,3/1/2024,2642
+Leave in,3/1/2024,2800
+Hair Treatment,3/1/2024,2919
+Oil,3/1/2024,3602
+Shower Gel,3/1/2024,2893
+Body Lotion,3/1/2024,2874
+Body Splash,3/1/2024,2619
+Roll-on,3/1/2024,3170
+Body Cream,3/1/2024,2782
+Body Soap,3/1/2024,2797
+Face Serum,3/1/2024,2725
+Face Cream,3/1/2024,3657
+Facial Cleanser,3/1/2024,3042
+Makeup Remover,3/1/2024,3239
+Eye Cream,3/1/2024,4400
+Immunity Boost,3/1/2024,1000
+Hair Serum,4/1/2024,3640
+Shampoo,4/1/2024,3120
+Conditioner,4/1/2024,3090
+Hair Mask,4/1/2024,2987
+Leave in,4/1/2024,3163
+Hair Treatment,4/1/2024,3242
+Oil,4/1/2024,3600
+Shower Gel,4/1/2024,3105
+Body Lotion,4/1/2024,3210
+Body Splash,4/1/2024,3000
+Roll-on,4/1/2024,3303
+Body Cream,4/1/2024,3099
+Body Soap,4/1/2024,3173
+Face Serum,4/1/2024,3393
+Face Cream,4/1/2024,3820
+Facial Cleanser,4/1/2024,3380
+Makeup Remover,4/1/2024,3469
+Eye Cream,4/1/2024,4600
+Immunity Boost,4/1/2024,1050
+Hair Serum,5/1/2024,3978
+Shampoo,5/1/2024,3540
+Conditioner,5/1/2024,3354
+Hair Mask,5/1/2024,3165
+Leave in,5/1/2024,3475
+Hair Treatment,5/1/2024,3184
+Oil,5/1/2024,3782
+Shower Gel,5/1/2024,3338
+Body Lotion,5/1/2024,3506
+Body Splash,5/1/2024,3201
+Roll-on,5/1/2024,3568
+Body Cream,5/1/2024,3219
+Body Soap,5/1/2024,3237
+Face Serum,5/1/2024,3690
+Face Cream,5/1/2024,3746
+Facial Cleanser,5/1/2024,3553
+Makeup Remover,5/1/2024,3560
+Eye Cream,5/1/2024,4800
+Immunity Boost,5/1/2024,1100
+Hair Serum,6/1/2024,4300
+Shampoo,6/1/2024,4201
+Conditioner,6/1/2024,4100
+Hair Mask,6/1/2024,3965
+Leave in,6/1/2024,4207
+Hair Treatment,6/1/2024,3794
+Oil,6/1/2024,4213
+Shower Gel,6/1/2024,4180
+Body Lotion,6/1/2024,4287
+Body Splash,6/1/2024,3995
+Roll-on,6/1/2024,4616
+Body Cream,6/1/2024,3932
+Body Soap,6/1/2024,3962
+Face Serum,6/1/2024,4279
+Face Cream,6/1/2024,4142
+Facial Cleanser,6/1/2024,4239
+Makeup Remover,6/1/2024,4053
+Eye Cream,6/1/2024,3943
+Immunity Boost,6/1/2024,1150
+Hair Serum,7/1/2024,3876
+Shampoo,7/1/2024,3740
+Conditioner,7/1/2024,4003
+Hair Mask,7/1/2024,3506
+Leave in,7/1/2024,3737
+Hair Treatment,7/1/2024,3787
+Oil,7/1/2024,3827
+Shower Gel,7/1/2024,3650
+Body Lotion,7/1/2024,3940
+Body Splash,7/1/2024,3556
+Roll-on,7/1/2024,4165
+Body Cream,7/1/2024,3478
+Body Soap,7/1/2024,3678
+Face Serum,7/1/2024,3936
+Face Cream,7/1/2024,4017
+Facial Cleanser,7/1/2024,3723
+Makeup Remover,7/1/2024,3750
+Eye Cream,7/1/2024,5200
+Immunity Boost,7/1/2024,1200
+Hair Serum,8/1/2024,4845
+Shampoo,8/1/2024,4326
+Conditioner,8/1/2024,4192
+Hair Mask,8/1/2024,4078
+Leave in,8/1/2024,4375
+Hair Treatment,8/1/2024,4154
+Oil,8/1/2024,4728
+Shower Gel,8/1/2024,4231
+Body Lotion,8/1/2024,4488
+Body Splash,8/1/2024,4128
+Roll-on,8/1/2024,4664
+Body Cream,8/1/2024,3872
+Body Soap,8/1/2024,3905
+Face Serum,8/1/2024,4642
+Face Cream,8/1/2024,4826
+Facial Cleanser,8/1/2024,4413
+Makeup Remover,8/1/2024,4336
+Eye Cream,8/1/2024,5400
+Immunity Boost,8/1/2024,1300
+Hair Serum,9/1/2024,5202
+Shampoo,9/1/2024,4966
+Conditioner,9/1/2024,4820
+Hair Mask,9/1/2024,4838
+Leave in,9/1/2024,5083
+Hair Treatment,9/1/2024,4743
+Oil,9/1/2024,5063
+Shower Gel,9/1/2024,4826
+Body Lotion,9/1/2024,5199
+Body Splash,9/1/2024,4466
+Roll-on,9/1/2024,5366
+Body Cream,9/1/2024,4576
+Body Soap,9/1/2024,4876
+Face Serum,9/1/2024,5298
+Face Cream,9/1/2024,5130
+Facial Cleanser,9/1/2024,4954
+Makeup Remover,9/1/2024,5110
+Eye Cream,9/1/2024,5600
+Immunity Boost,9/1/2024,1400
+Hair Serum,10/1/2024,6120
+Shampoo,10/1/2024,5865
+Conditioner,10/1/2024,5670
+Hair Mask,10/1/2024,5401
+Leave in,10/1/2024,5869
+Hair Treatment,10/1/2024,5817
+Oil,10/1/2024,5885
+Shower Gel,10/1/2024,5740
+Body Lotion,10/1/2024,6066
+Body Splash,10/1/2024,5541
+Roll-on,10/1/2024,6202
+Body Cream,10/1/2024,5542
+Body Soap,10/1/2024,5636
+Face Serum,10/1/2024,5896
+Face Cream,10/1/2024,6058
+Facial Cleanser,10/1/2024,6016
+Makeup Remover,10/1/2024,6253
+Eye Cream,10/1/2024,5800
+Immunity Boost,10/1/2024,1500
+Hair Serum,11/1/2024,5340
+Shampoo,11/1/2024,4920
+Conditioner,11/1/2024,4793
+Hair Mask,11/1/2024,4591
+Leave in,11/1/2024,4850
+Hair Treatment,11/1/2024,4593
+Oil,11/1/2024,5171
+Shower Gel,11/1/2024,4670
+Body Lotion,11/1/2024,4911
+Body Splash,11/1/2024,4638
+Roll-on,11/1/2024,5185
+Body Cream,11/1/2024,4534
+Body Soap,11/1/2024,4631
+Face Serum,11/1/2024,4829
+Face Cream,11/1/2024,5201
+Facial Cleanser,11/1/2024,5132
+Makeup Remover,11/1/2024,5202
+Eye Cream,11/1/2024,6000
+Immunity Boost,11/1/2024,1550
+Hair Serum,12/1/2024,5925
+Shampoo,12/1/2024,5652
+Conditioner,12/1/2024,5679
+Hair Mask,12/1/2024,5072
+Leave in,12/1/2024,5629
+Hair Treatment,12/1/2024,5388
+Oil,12/1/2024,5818
+Shower Gel,12/1/2024,5506
+Body Lotion,12/1/2024,5836
+Body Splash,12/1/2024,5539
+Roll-on,12/1/2024,5958
+Body Cream,12/1/2024,5485
+Body Soap,12/1/2024,5609
+Face Serum,12/1/2024,5752
+Face Cream,12/1/2024,5916
+Facial Cleanser,12/1/2024,5637
+Makeup Remover,12/1/2024,5845
+Eye Cream,12/1/2024,6200
+Immunity Boost,12/1/2024,1600
